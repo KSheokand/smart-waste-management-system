@@ -1,6 +1,3 @@
-Absolutely! Here's the **complete copy-paste-ready `README.md`** file for your **Smart Waste Management System (SWMS)** built with the MERN stack:
-
----
 
 ```markdown
 # ♻️ Smart Waste Management System (SWMS)
