@@ -1,5 +1,4 @@
-
-```markdown
+---
 # ♻️ Smart Waste Management System (SWMS)
 
 A full-stack MERN (MongoDB, Express.js, React/Next.js, Node.js) application designed to optimize urban waste management using real-time monitoring, smart bin data simulation, and an interactive map dashboard for effective decision-making.
