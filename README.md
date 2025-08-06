@@ -143,24 +143,6 @@ App runs at: `http://localhost:3000`
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of your dashboard, login page, map view, etc. for better visual documentation.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Fork this repo, make your changes, and open a pull request.
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
-
----
-
 ## 🙏 Acknowledgements
 
 * [Next.js](https://nextjs.org/)
