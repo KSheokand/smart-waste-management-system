@@ -1,0 +1,19 @@
+# Node
+node_modules/
+.env
+*.log
+
+# Next.js
+.next/
+out/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Lockfiles
+package-lock.json
+yarn.lock
+
+frontend/.env
+backend/.env
