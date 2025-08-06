@@ -57,7 +57,7 @@ smart-waste-management-system/
 └── README.md
 
 ---
-
+````
 ---
 
 ## 🛠️ Getting Started
