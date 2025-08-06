@@ -35,7 +35,7 @@ A full-stack MERN (MongoDB, Express.js, React/Next.js, Node.js) application desi
 
 ## 📁 Project Structure
 
-```
+---
 
 smart-waste-management-system/
 │
@@ -57,7 +57,7 @@ smart-waste-management-system/
 │
 └── README.md
 
-````
+---
 
 ---
 
